@@ -25,3 +25,4 @@ describe("hasTargetSum", () => {
     expect(hasTargetSum([4], 5)).to.be.false;
   });
 });
+Footer
